@@ -1,1 +1,6 @@
 My first git update
+vs code workspace has been setup successfully
+this is an edit form vscode
+this commit should cause conflict with online repo
+this conflict should be resolved before pushing
+this conflict resolution is a part od week 1 day 2 exercise
