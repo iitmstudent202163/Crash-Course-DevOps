@@ -1,6 +1,13 @@
 My first git update
+<<<<<<< HEAD
 vs code workspace has been setup successfully
 this is an edit form vscode
 this commit should cause conflict with online repo
 this conflict should be resolved before pushing
 this conflict resolution is a part od week 1 day 2 exercise
+=======
+my second commit
+week 1 day 2 exercise
+conflict management in git
+this update should create conflict with my local repository.
+>>>>>>> fc875a7214dcf7c1e1473b9880db063c2087262d
